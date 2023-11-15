@@ -1,4 +1,4 @@
-<img align= "right" alt= "coding" width="400" src= [https://blog.hubspot.com/hs-fs/hubfs/DevOps%20Tools.png?width=650&name=DevOps%20Tools.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkatalon.com%2Fresources-center%2Fblog%2Fdevops-orchestration-investment&psig=AOvVaw34WhQErZu6xRW4Ufg2oP2t&ust=1700107994106000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCbrvqRxYIDFQAAAAAdAAAAABAS)>
+<[https://blog.hubspot.com/hs-fs/hubfs/DevOps%20Tools.png?width=650&name=DevOps%20Tools.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkatalon.com%2Fresources-center%2Fblog%2Fdevops-orchestration-investment&psig=AOvVaw34WhQErZu6xRW4Ufg2oP2t&ust=1700107994106000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCbrvqRxYIDFQAAAAAdAAAAABAS)>
 <h3 align="center">DEVOPS ENGINEER
  <h3 align="left"> Hi, 
 <h3 align="left">
