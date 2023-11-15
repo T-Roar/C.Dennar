@@ -1,6 +1,6 @@
-                                      <img align="center" alt="Coding" width="400" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif">
+<img align="center" alt="Coding" width="400" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif">
 <h3 align="center">DEVOPS ENGINEER
- <h3 align="left"> Hi, 
+<h3 align="left"> Hi, 
 <h3 align="left">
 I am Chinazam C. Dennar, a seasoned DevOps/SRE Engineer based in Canada, boasting over 6 years of expertise in delivering and maintaining automated, scalable infrastructure, continuous integration/delivery pipelines, and effective incident response. My leadership capabilities are evidenced by successfully managing SRE teams and efficiently resolving production issues with precision.
 
