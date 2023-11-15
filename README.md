@@ -1,4 +1,4 @@
-![MasterHead](<img align="center" alt="Coding" width="400" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif">)
+![MasterHead]<img align="center" alt="Coding" width="400" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif">
 <h3 align="center">DEVOPS ENGINEER
  <h3 align="left"> Hi, 
 <h3 align="left">
